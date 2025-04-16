@@ -17,8 +17,24 @@ Tested and worked with Arch Linux and Debian based systens.
 
 
 
+They work with the vanilla kernel, but has better results with xanmod kernels.
+
+
+
 Instalation
 Copy them from the project folders the the same location in your root directory and reboot your system.
 
-Unistall:
+Uninstall:
 Remove the files and reboot your system.
+
+
+
+References:
+
+ - Arch Linux wiki.
+ - Debian wiki.
+ - Nobara project.
+ - And lot of testing.
+
+
+Best Regards fellows gamers!
