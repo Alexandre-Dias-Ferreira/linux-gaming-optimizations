@@ -20,7 +20,7 @@ They work with the vanilla kernel, but you get better results with the xanmod ke
 
 
 Instalation
-Copy them from the project folders the the same location in your root directory and reboot your system.
+Copy them from the project folders tothe same location in your root directory and reboot your system.
 
 Uninstall:
 Remove the files and reboot your system.
@@ -36,7 +36,7 @@ References:
 RoadMap:
 
  - Create Arch and Debian packages.
- - Create a instalation uninstalation script.
+ - Create an install/uninstall script.
 
 
 Best Regards fellows gamers!
