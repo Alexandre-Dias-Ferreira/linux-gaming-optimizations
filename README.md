@@ -3,7 +3,7 @@
 
 This project aims to optimize the linux kernel for a better response time in your games.
 
-Good for FPS-Shooter games where the user action must reach the server ASSAP.
+Good for FPS-Shooter games where the user action must reach the server ASAP.
 
 
 
